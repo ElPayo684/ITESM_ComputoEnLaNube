@@ -1,0 +1,5 @@
+﻿  SolucionParalela_LopezGomez.cpp
+C:\Users\IGNITER\Documents\TEC\Computo en la Nube\proyectosOMP\SolucionParalela_LopezGomez\SolucionParalela_LopezGomez.cpp(25,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\IGNITER\Documents\TEC\Computo en la Nube\proyectosOMP\SolucionParalela_LopezGomez\SolucionParalela_LopezGomez.cpp(26,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\IGNITER\Documents\TEC\Computo en la Nube\proyectosOMP\SolucionParalela_LopezGomez\SolucionParalela_LopezGomez.cpp(22,9): warning C4101: 'i': unreferenced local variable
+  SolucionParalela_LopezGomez.vcxproj -> C:\Users\IGNITER\Documents\TEC\Computo en la Nube\proyectosOMP\SolucionParalela_LopezGomez\x64\Debug\SolucionParalela_LopezGomez.exe
